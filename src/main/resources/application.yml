@@ -3,8 +3,8 @@ server:
 
 spring:
   datasource:
-    url: jdbc:postgresql://localhost:5332/bookcatalogue
-    username: paaciu
+    url: jdbc:postgresql://localhost:5332/book
+    username: library_user
     password: password
   jpa:
     hibernate:
