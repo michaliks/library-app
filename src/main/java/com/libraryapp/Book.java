@@ -20,16 +20,4 @@ public class Book{
     private String author;
     private String title;
     private Boolean availability;
-
-    public Book(Integer bookId,
-                String author,
-                String title,
-                Boolean availability) {
-        this.bookId = bookId;
-        this.author = author;
-        this.title = title;
-        this.availability = availability;
-    }
-    public Book() {
-    }
 }
