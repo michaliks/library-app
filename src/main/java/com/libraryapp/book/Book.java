@@ -1,4 +1,4 @@
-package com.libraryapp;
+package com.libraryapp.book;
 
 import jakarta.persistence.*;
 import lombok.Data;
